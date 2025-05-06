@@ -1,10 +1,10 @@
 # Hi there, I'm [Bongani]! 👋
 
-![Banner Image](your_banner_image_url_here)
+![Banner Image](https://www.canva.com/design/DAGmipzigo0/cX-lyQGDN6b1bDi7TU58Ow/edit)
 
 ## About Me 🚀
 
-I'm a passionate **[an Educator]** with experience in **[teaching maths and physical science, GET and FET]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate **[Educator]** with experience in **[teaching maths and physical science, GET and FET]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **[JavaScript (Node.js)
 Python Java C# (.NET) Ruby, Go, or PHP ]**
